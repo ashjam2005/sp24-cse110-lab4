@@ -56,3 +56,48 @@ alert(student.courseLoad[0]);
 ### A
 32 is printed out. [3 is concatenated with 2, giving 32]
 
+### B
+1 is printed out. [3 is converted to int. So, 3 minus 2 is a 1]
+
+### C 
+3 is printed out. [null is converted into a zero and 3 plus 0 is done]
+
+### D
+3null is printed out. [null is converted into a string object and concatenated with 3]
+
+### E
+4 is printed out.[True converts to 1, and then calculation becomes 1 plus 3]
+
+### F
+0 is printed out.[Null and false are both converted to 0, and then calculation become 0 plus 0.]
+
+### G
+3undefined is printed out.[undefined becomes a string object and is concatenated with string object 3.]
+
+### H
+NaN is printed out.[Undefined when converted to an integer becomes NaN and 3 is converted to an integer. 3 minus NaN can only be NaN]
+
+## Fourteenth question
+### A
+True is printed out. [String 2 become number 2]
+
+### B
+False is printed out. [The string are compared lexicographically, means that 2 is compared to 1 instead of 12]
+
+### C 
+True is printed out. [String 2 is converted into integer 2]
+
+### D
+False is printed out. [Objects are of different types.]
+
+### E
+False is printed out.[True converts to 1, and then calculation becomes 1 is not equal to 2.]
+
+### F
+True is printed out.[2 is converted to boolean and when converted it equates to true and expression changes to 'true == true']
+
+## Fifteenth question
+=== checks for equality without type conversion, unlike ==.
+
+
+
