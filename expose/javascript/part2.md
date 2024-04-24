@@ -99,5 +99,9 @@ True is printed out.[2 is converted to boolean and when converted it equates to 
 ## Fifteenth question
 === checks for equality without type conversion, unlike ==.
 
+## Seventeenth question
+While nothing would be printed out, the function would return array [2,4,6]. This is because in the modifyArray, a new array is created and there exists a for-loop in the method which fills in the new array with double the values of the array inputed into the modifyArray method.
+
+
 
 
