@@ -102,6 +102,11 @@ True is printed out.[2 is converted to boolean and when converted it equates to 
 ## Seventeenth question
 While nothing would be printed out, the function would return array [2,4,6]. This is because in the modifyArray, a new array is created and there exists a for-loop in the method which fills in the new array with double the values of the array inputed into the modifyArray method.
 
+## Nineteenth question
 
+1
+4
+3
+2
 
 
