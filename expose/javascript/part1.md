@@ -4,7 +4,7 @@
 This line will print out 20 since intialization of variable result is in the if block whereas line 9 is also in the if-block.
 
 ## Second question
-This line would print out 0 since result is a var meaning that result has no scope and can be accessed globally.
+This line would print out 20 since this line would be accessed no matter what if add is true and result variable has not changed.
 
 ## Third question
 This line would print out 20 since line 9 is also in the same scope as variable result.
